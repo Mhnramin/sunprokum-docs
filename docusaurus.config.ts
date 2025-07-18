@@ -26,7 +26,7 @@ const config: Config = {
   projectName: "sunprokum-docs", // Usually your repo name.
 
   onBrokenLinks: "throw",
-  onBrokenMarkdownLinks: "warn",
+  onBrokenMarkdownLinks: "throw",
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
@@ -45,8 +45,7 @@ const config: Config = {
           sidebarPath: "./sidebars.ts",
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            "https://github.com/Mhnramin/sunprokum-docs/tree/main/",
+          editUrl: "https://github.com/Mhnramin/sunprokum-docs/tree/main/",
         },
         blog: {
           showReadingTime: true,
@@ -56,8 +55,7 @@ const config: Config = {
           },
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            "https://github.com/Mhnramin/sunprokum-docs/tree/main/",
+          editUrl: "https://github.com/Mhnramin/sunprokum-docs/tree/main/",
           // Useful options to enforce blogging best practices
           onInlineTags: "warn",
           onInlineAuthors: "warn",
@@ -102,7 +100,7 @@ const config: Config = {
           items: [
             {
               label: "Panduan Online",
-              to: "/docs/index",
+              to: "/docs/",
             },
           ],
         },
