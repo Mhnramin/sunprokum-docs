@@ -8,7 +8,7 @@ sidebar_position: 2
 
 Untuk mengakses dashboard SUNPROKUM, ikuti langkah-langkah berikut:
 
-1. Buka halaman login SUNPROKUM di https://jdih.komisiyudisial.go.id/login
+1. Buka halaman login SUNPROKUM di **https://jdih.komisiyudisial.go.id/login**
 2. Pada halaman login, Anda akan melihat form yang terdiri dari:
    - Kolom Email
    - Kolom Password
@@ -17,7 +17,7 @@ Untuk mengakses dashboard SUNPROKUM, ikuti langkah-langkah berikut:
 ## Langkah-langkah Login
 
 <img
-src="/img/tutorial-login.gif"
+src="/sunprokum-docs/img/tutorial-login.gif"
 alt="Tutorial Login"
 width="600"
 style={{ border: "1px solid #ddd" }}
@@ -32,7 +32,7 @@ loop
 ## Halaman Dashboard
 
 <img
-src="/img/dashboard.png"
+src="/sunprokum-docs/img/dashboard.png"
 alt="Dashboard"
 width="1000"
 style={{ border: "1px solid #ddd" }}

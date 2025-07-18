@@ -28,7 +28,7 @@ Perlu diperhatikan sebelum submit bahwa keterangan telah diisi dengan **"link wo
 ### Melalui OneDrive
 
 <img
-src="/img/tutorial-onedrive.gif"
+src="/sunprokum-docs/img/tutorial-onedrive.gif"
 alt="Tutorial Onedrive"
 width="1000"
 style={{ border: "1px solid #ddd" }}
@@ -45,7 +45,7 @@ loop
 ### Melalui Word 365
 
 <img
-src="/img/tutorial-word365.gif"
+src="/sunprokum-docs/img/tutorial-word365.gif"
 alt="Tutorial Word365"
 width="1000"
 style={{ border: "1px solid #ddd" }}
@@ -63,7 +63,7 @@ loop
 ## Berkas Sumber Produk Hukum
 
 <img
-src="/img/tutorial-sumber-hukum.gif"
+src="/sunprokum-docs/img/tutorial-sumber-hukum.gif"
 alt="Tutorial Sumber Produk"
 width="1000"
 style={{ border: "1px solid #ddd" }}

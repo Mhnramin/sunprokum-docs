@@ -8,7 +8,7 @@ slug: metadata-dokumen
 ## Penginputan Metadata
 
 <img
-src="/img/tutorial-isi-metadata-dokumen.gif"
+src="/sunprokum-docs//img/tutorial-isi-metadata-dokumen.gif"
 alt="Tutorial Metadata Dokumen"
 width="900"
 style={{ border: "1px solid #ddd" }}

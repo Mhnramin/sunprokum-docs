@@ -7,7 +7,7 @@ sidebar_position: 1
 Setelah sukses menambahkan metadata baik [dokumen](/docs/Panduan%20Penginputan%20Metadata/metadata-dokumen.md) maupun [artikel/jurnal](/docs/Panduan%20Penginputan%20Metadata/metadata-artikel-jurnal.md), sistem akan meminta anda untuk mengisi data yang diperlukan untuk mengisi berkas produk hukum terkait yang nantinya akan ditampilkan pada halaman Berkas dari suatu produk hukum di website JDIH Komisi Yudisial.
 
 <img
-src="/img/tutorial-berkas.gif"
+src="/sunprokum-docs/img/tutorial-berkas.gif"
 alt="Tutorial Berkas"
 width="1000"
 style={{ border: "1px solid #ddd" }}

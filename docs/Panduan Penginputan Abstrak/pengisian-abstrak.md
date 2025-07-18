@@ -7,7 +7,7 @@ sidebar_position: 2
 Setelah menambahkan metadata baik [dokumen](/docs/Panduan%20Penginputan%20Metadata/metadata-dokumen.md) maupun [artikel/jurnal](/docs/Panduan%20Penginputan%20Metadata/metadata-artikel-jurnal.md), sistem akan meminta anda untuk mengisi data yang diperlukan untuk mengisi abstrak produk hukum terkait.
 
 <img
-src="/img/tutorial-abstrak.gif"
+src="/sunprokum-docs/img/tutorial-abstrak.gif"
 alt="Tutorial Abstrak"
 width="1000"
 style={{ border: "1px solid #ddd" }}
