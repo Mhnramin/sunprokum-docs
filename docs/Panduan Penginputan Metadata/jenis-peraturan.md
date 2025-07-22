@@ -4,10 +4,6 @@ title: "Jenis Peraturan dan Singkatan"
 sidebar_position: 6
 ---
 
-:::note
-Pedoman ini berdasarkan pada **Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 8 Tahun 2019 tentang Standar Pengelolaan Dokumen dan Informasi Hukum**.
-:::
-
 ## Pedoman Tajuk Entri Utama Peraturan
 
 | JENIS PERATURAN                                                                                | TAJUK ENTRI UTAMA                                          |
@@ -85,3 +81,7 @@ Pedoman ini berdasarkan pada **Peraturan Menteri Hukum dan Hak Asasi Manusia Nom
 | Peraturan Mahkamah Agung                     | PERMA     |
 | Peraturan Gubernur                           | PERGUB    |
 | dan lain-lain                                |           |
+
+:::note
+Pedoman ini berdasarkan pada **Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 8 Tahun 2019 tentang Standar Pengelolaan Dokumen dan Informasi Hukum**.
+:::

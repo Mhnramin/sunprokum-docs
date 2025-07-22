@@ -5,28 +5,28 @@ title: PIC & FAQ
 
 ## PIC (Penanggung Jawab)
 
-| Penanggung Jawab                  | Penghubung Komisi Yudisial  |
-| --------------------------------- | --------------------------- |
-| **Tim 1**                         | Wilayah Sumatera Utara      |
-| PIC : Dani Dwiyantoro             | Wilayah Lampung             |
-| Anggota : Dini Hardianti          | Wilayah Jawa Timur          |
-| Anggota : Muhammad Nur Amin       | Wilayah Papua               |
-|                                   | Wilayah Sulawesi Utara      |
-| **Tim 2**                         | Wilayah Sumatera Selatan    |
-| PIC : Reza Putri Septiyani        | Wilayah Kalimantan Selatan  |
-| Anggota : Catur Putri Mileniawati | Wilayah Jawa Tengah         |
-| Anggota : Hariyo Mahendra         | Wilayah Sulawesi Selatan    |
-|                                   | Wilayah Nusa Tenggara Barat |
-| **Tim 3**                         | Wilayah Aceh                |
-| PIC : Mustika Rizky Agustya       | Wilayah Kalimantan Barat    |
-| Anggota : Licia Christine         | Wilayah Maluku              |
-| Anggota : Frendhis Aditya Permana | Wilayah Nusa Tenggara Timur |
-|                                   | Wilayah Bali                |
-| **Tim 4**                         | Wilayah Sumatera Barat      |
-| PIC : Rentauli Simanjuntak        | Wilayah Riau                |
-| Anggota : Gita Amalia Putri       | Wilayah Kalimantan Timur    |
-| Anggota : Hery Riyanto            | Wilayah Sulawesi Tenggara   |
-|                                   | Wilayah Papua Barat         |
+| Penanggung Jawab                 | Penghubung Komisi Yudisial  |
+| -------------------------------- | --------------------------- |
+| **Tim 1**                        | Wilayah Sumatera Utara      |
+| PIC: Dani Dwiyantoro             | Wilayah Lampung             |
+| Anggota: Dini Hardianti          | Wilayah Jawa Timur          |
+| Anggota: Muhammad Nur Amin       | Wilayah Papua               |
+|                                  | Wilayah Sulawesi Utara      |
+| **Tim 2**                        | Wilayah Sumatera Selatan    |
+| PIC: Reza Putri Septiyani        | Wilayah Kalimantan Selatan  |
+| Anggota: Catur Putri Mileniawati | Wilayah Jawa Tengah         |
+| Anggota: Hariyo Mahendra         | Wilayah Sulawesi Selatan    |
+|                                  | Wilayah Nusa Tenggara Barat |
+| **Tim 3**                        | Wilayah Aceh                |
+| PIC: Mustika Rizky Agustya       | Wilayah Kalimantan Barat    |
+| Anggota: Licia Christine         | Wilayah Maluku              |
+| Anggota: Frendhis Aditya Permana | Wilayah Nusa Tenggara Timur |
+|                                  | Wilayah Bali                |
+| **Tim 4**                        | Wilayah Sumatera Barat      |
+| PIC: Rentauli Simanjuntak        | Wilayah Riau                |
+| Anggota: Gita Amalia Putri       | Wilayah Kalimantan Timur    |
+| Anggota: Hery Riyanto            | Wilayah Sulawesi Tenggara   |
+|                                  | Wilayah Papua Barat         |
 
 ## F.A.Q (Pertanyaan yang sering diajukan)
 

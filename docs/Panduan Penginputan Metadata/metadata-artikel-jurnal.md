@@ -8,7 +8,7 @@ slug: metadata-artikel-jurnal
 ## Penginputan Metadata Artikel/Jurnal
 
 <img
-src="/sunprokum-docs//img/tutorial-isi-metadata-artikel.gif"
+src="/sunprokum-docs/img/tutorial-metadata-artikel.gif"
 alt="Tutorial Metadata Artikel"
 width="900"
 style={{ border: "1px solid #ddd" }}
