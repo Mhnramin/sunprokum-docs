@@ -40,8 +40,9 @@ Setiap artikel/jurnal hukum harus dilengkapi metadata untuk memudahkan klasifika
 
 ## Simpan Metadata
 
+1. Setelah selesai mengisi metadata, klik tombol **"Simpan"** di bagian bawah halaman.
+
 ![Tampilan Tombol Simpan](/img/tombol-simpan.png)
 
-1. Setelah selesai mengisi metadata, klik tombol **"Simpan"** di bagian bawah halaman.
 2. Sistem akan memvalidasi metadata yang Anda inputkan.
 3. Jika metadata valid, sistem akan menyimpan metadata produk hukum tersebut dan menjadikan status produk hukum menjadi _draft_ pada sistem Sunprokum.

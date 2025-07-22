@@ -4,7 +4,7 @@ title: Penginputan Berkas
 sidebar_position: 1
 ---
 
-Setelah sukses menambahkan metadata baik [dokumen](/docs/Panduan%20Penginputan%20Metadata/metadata-dokumen.md) maupun [artikel/jurnal](/docs/Panduan%20Penginputan%20Metadata/metadata-artikel-jurnal.md), sistem akan meminta anda untuk mengisi data yang diperlukan untuk mengisi berkas produk hukum terkait yang nantinya akan ditampilkan pada halaman Berkas dari suatu produk hukum di website JDIH Komisi Yudisial.
+Setelah sukses menambahkan metadata baik [peraturan](/docs/Panduan%20Penginputan%20Metadata/metadata-dokumen.md), [artikel/jurnal](/docs/Panduan%20Penginputan%20Metadata/metadata-artikel-jurnal.md) dan [abstrak](/docs/Panduan%20Penginputan%20Abstrak/penyusunan-abstrak.md) sistem akan meminta Anda untuk mengisi data yang diperlukan. Untuk mengisi berkas produk hukum terkait yang nantinya akan ditampilkan pada halaman "Berkas" dari suatu produk hukum pada website JDIH Komisi Yudisial dengan melihat tutorial di bawah ini.
 
 <img
 src="/sunprokum-docs/img/tutorial-berkas.gif"
@@ -39,14 +39,6 @@ Berkas produk hukum yang akan ditampilkan pada website JDIH sebagai bagian dari 
 
 Dalam pengisian _link_/tautan harap diperhatikan bahwa terdapat ketentuan lebih lanjut yang harus disalin atau tambah pada saat mengisi tautan berkas.
 
-:::tip[Pemberitahuan]
-Dengan klik next dibawah ini atau melalui ketentuan [**teknis input tautan berikut**](./tautan-berkas.md).
+:::warning[Perlu Diperhatikan]
+Melalui ketentuan [**Teknis Input Tautan**](./tautan-berkas.md) atau dengan klik **"Next"** di bawah ini.
 :::
-
-## Simpan Berkas
-
-1. Setelah selesai mengisi berkas, klik tombol **"Simpan"** di bagian bawah halaman.
-   ![Tampilan Tombol Simpan](/img/tombol-simpan.png)
-2. Sistem akan memvalidasi berkas yang Anda inputkan.
-3. Sistem akan menyimpan berkas produk hukum tersebut pada sistem Sunprokum.
-4. Setelah berkas disimpan, sistem akan memberikan notifikasi bahwa berkas produk hukum sudah tersimpan.

@@ -10,7 +10,7 @@ Setelah berhasil login ke sistem, ikuti langkah berikut untuk mengakses dan mela
 
 1. Klik menu **"PKY"** pada bagian header website, yang terletak di sebelah menu "Beranda".
 2. Setelah halaman PKY terbuka, Anda akan melihat beberapa pilihan untuk menambah data:
-   - [**Dokumen**](./metadata-dokumen.md)
+   - [**Peraturan**](./metadata-dokumen.md)
    - [**Artikel/Jurnal**](./metadata-artikel-jurnal.md)
    - [**Monitoring**](./metadata-monitoring.md)
 3. Pilih salah satu sesuai kebutuhan Anda untuk mulai menambah data.

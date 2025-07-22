@@ -8,15 +8,9 @@ sidebar_position: 1
 
 :::tip[Dasar Peraturan]
 [**Peraturan Menteri Hukum dan Ham Nomor 8 Tahun 2019 Tentang Standar Pengelolaan Dokumentasi dan Informasi Hukum.**](https://peraturan.bpk.go.id/Details/133122/permenkumham-no-8-tahun-2019)
-
-Standar pengelolaan dokumen dan informasi hukum ini dimaksudkan sebagai pedoman yang wajib digunakan dalam pengelolaan dokumen dan informasi hukum oleh seluruh anggota Jaringan Dokumentasi dan Informasi Hukum Nasional.
-
 :::
 
-| Sebelum                                                                                                   | Sesudah                                                                                  |
-| --------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| Permenkumham Nomor 2 Tahun 2013 tentang Standardisasi Pengelolaan Teknis Dokumentasi dan Informasi Hukum. | Permenkumham Nomor 8 Tahun 2019 tentang Standar pengelolaan dokumen dan informasi Hukum. |
-| 11 Standardisasi Pengelolaan Teknis Dokumentasi dan Informasi Hukum **sudah tidak berlaku**.              | 3 Standar Pengelolaan Dokumen dan Informasi Hukum.                                       |
+Standar pengelolaan dokumen dan informasi hukum ini dimaksudkan sebagai pedoman yang wajib digunakan dalam pengelolaan dokumen dan informasi hukum oleh seluruh anggota Jaringan Dokumentasi dan Informasi Hukum Nasional.
 
 ## Pengertian Abstrak
 

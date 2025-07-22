@@ -4,6 +4,7 @@ title: Teknis Penyusunan Abstrak
 sidebar_position: 3
 ---
 
+Setelah menambahkan metadata baik [dokumen](/docs/Panduan%20Penginputan%20Metadata/metadata-dokumen.md) maupun [artikel/jurnal](/docs/Panduan%20Penginputan%20Metadata/metadata-artikel-jurnal.md), sistem akan meminta anda untuk mengisi data yang diperlukan untuk menyusun abstrak produk hukum terkait.
 Dalam penyusunan abstrak peraturan, terdapat beberapa hal yang harus diperhatikan, antara lain:
 
 - [**Identitas Dokumen**](./penyusunan-abstrak.md#identitas-dokumen)
@@ -164,3 +165,56 @@ Catatan memuat beberapa hal yang berkaitan dengan kedudukan peraturan diantarany
 - Menggunakan bahasa Indonesia yang benar sesuai KBBI
 - Font Calibri Ukuran 11.
   :::
+
+## Penginputan Abstrak
+
+### Unggah Abstrak pada OneDrive
+
+Setelah membuat dokumen abstrak sesuai dengan proses penyusunan diatas, selanjutnya mengunggah dokumen pada OneDrive yang disediakan dengan mengikuti langkah-langkah berikut ini:
+
+:::tip[Link OneDrive]
+Silakan akses link berikut:
+
+[Link OneDrive](https://komisiyudisialri-my.sharepoint.com/:f:/g/personal/hukum_komisiyudisial_go_id/Eqch_ghA0I9HgKDWHkPcERsBaT4yu0Ikv2lONDmHZGZx3Q?e=jjfAEf)
+
+:::
+
+<img
+src="/sunprokum-docs/img/tutorial-upload-onedrive.gif"
+alt="Tutorial Upload OneDrive"
+width="1000"
+style={{ border: "1px solid #ddd" }}
+/>
+
+1. Pilih folder tujuan sesuai dengan domisi Anda.
+2. Klik tombol "Unggah" di bagian atas.
+3. Pilih "File" dari dokumen abstrak pada komputer Anda.
+4. Klik "Buka".
+5. Tunggu proses unggah selesai (akan muncul indikator progres di bawah).
+
+:::tip
+Setelah dokumen berhasil di unggah, selanjutnya dilakukan review dokumen abstrak bersama tim PIC Sunprokum melalui aplikasi Word 365
+:::
+
+### Pengisian Abstrak pada Sunprokum
+Setelah dokumen abstrak berhasil di review, selanjutnya dilakukan pengisian abstrak produk hukum melalui aplikasi Sunprokum dengan mengikuti tutorial di bawah ini:
+
+<img
+src="/sunprokum-docs/img/tutorial-abstrak.gif"
+alt="Tutorial Abstrak"
+width="1000"
+style={{ border: "1px solid #ddd" }}
+/>
+
+1. _Copy_/salin semua isi dokumen dari file Word 365.
+2. _Paste_/tempel pada kolom Form Abstrak
+
+### Simpan Abstrak
+
+1. Setelah selesai mengisi kolom Form Abstrak, klik tombol **"Simpan"** di bagian bawah halaman.
+
+   ![Tampilan Tombol Simpan](/img/tombol-simpan.png)
+
+2. Sistem akan memvalidasi abstrak yang Anda inputkan.
+3. Sistem akan menyimpan abstrak produk hukum tersebut pada sistem Sunprokum.
+4. Setelah abstrak disimpan, sistem akan memberikan notifikasi bahwa abstrak produk hukum sudah tersimpan.

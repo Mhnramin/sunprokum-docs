@@ -6,7 +6,7 @@ sidebar_position: 1
 
 ## Pengisian Tautan Berkas
 
-Dalam pengisian tautan berkas anda diharapkan menginput dua tautan yang diperlukan untuk proses _review_ bersama Subbagian Hukum dan Organisasi yaitu:
+Dalam pengisian tautan berkas anda diharapkan menginput dua tautan yang diperlukan untuk proses _review_ bersama PIC Sunprokum yaitu:
 
 1. Berkas _Draft_ Produk Hukum
 2. Berkas Sumber Produk Hukum
@@ -15,9 +15,9 @@ adapun penjelasan teknis lebih lanjut sebagai berikut:
 
 ## Berkas _Draft_ Produk Hukum
 
-Berkas _Draft_ Produk Hukum merupakan berkas produk hukum yang telah dibuat untuk proses review bersama dengan Subbagian Hukum dan Organisasi Komisi Yudisial yang selanjutnya:
+Berkas _Draft_ Produk Hukum merupakan berkas produk hukum yang telah dibuat untuk proses review bersama dengan PIC Sunprokum dengan mengikuti tutorial berikut:
 
-1. Siapkan berkas produk hukum yang telah dibuat untuk proses review bersama dengan Subbagian Hukum dan Organisasi Komisi Yudisial.
+1. Siapkan berkas produk hukum yang telah dibuat untuk proses review bersama dengan PIC Sunprokum.
 2. Salin berkas produk hukum dari OneDrive atau Word yang telah dibuat ke dalam kolom _link_.
 3. Tempel berkas produk hukum ke dalam kolom _link_ yang sudah disediakan.
 
@@ -75,3 +75,13 @@ Anda dapat menginputkan tautan berkas produk hukum dengan mengambil dari sumber 
 :::warning
 Perlu diperhatikan sebelum submit bahwa keterangan telah diisi dengan **"file sumber"**.
 :::
+
+## Simpan Berkas
+
+1. Setelah selesai mengisi berkas, klik tombol **"Simpan"** di bagian bawah halaman.
+
+   ![Tampilan Tombol Simpan](/img/tombol-simpan.png)
+
+2. Sistem akan memvalidasi berkas yang Anda inputkan.
+3. Sistem akan menyimpan berkas produk hukum tersebut pada sistem Sunprokum.
+4. Setelah berkas disimpan, sistem akan memberikan notifikasi bahwa berkas produk hukum sudah tersimpan.

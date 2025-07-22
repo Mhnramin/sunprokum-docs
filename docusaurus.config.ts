@@ -36,6 +36,8 @@ const config: Config = {
     locales: ["en"],
   },
 
+  plugins: [require.resolve("docusaurus-plugin-image-zoom")],
+
   presets: [
     [
       "classic",
@@ -156,6 +158,19 @@ const config: Config = {
     prism: {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
+    },
+    zoom: {
+      selector: ".markdown img, .markdown img[src$='.gif']",
+      background: {
+        light: "rgb(255, 255, 255)",
+        dark: "rgb(50, 50, 50)",
+      },
+      config: {
+        // Add specific options for GIFs
+        margin: 80,
+        scrollOffset: 0,
+        // More options from medium-zoom: https://github.com/francoischalifour/medium-zoom#options
+      },
     },
   } satisfies Preset.ThemeConfig,
 };

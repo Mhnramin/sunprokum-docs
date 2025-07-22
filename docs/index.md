@@ -15,8 +15,9 @@ Sebagai bagian dari upaya keterbukaan informasi publik, Komisi Yudisial melalui 
 
 ### Dasar Kegiatan
 
-- Nota Dinas Nomor: 28/ND/PK/HK/02/2025
-- Tanggal: 19 Februari 2025
+- Peraturan Presiden Nomor 33 Tahun 2012 tentang Jaringan Dokumentasi dan Informasi Hukum Nasional (Lembaran Negara Republik Indonesia Tahun 2012 Nomor 82)
+- Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 8 Tahun 2019 tentang Standar Pengelolaan Dokumen dan Informasi Hukum
+- Nota Dinas Nomor 28/ND/PK/HK/02/2025 Tanggal 19 Februari 2025
 
 ### Bukti Dukung
 
