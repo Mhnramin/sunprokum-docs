@@ -6,7 +6,7 @@ import type * as Preset from "@docusaurus/preset-classic";
 
 const config: Config = {
   title: "Panduan Online",
-  tagline: "Penyusununan Produk Hukum JDIH Komisi Yudisial.",
+  tagline: "Penyusunan Produk Hukum JDIH Komisi Yudisial.",
   favicon: "img/favicon.ico",
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future

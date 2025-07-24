@@ -5,28 +5,32 @@ title: PIC & FAQ
 
 ## PIC (Penanggung Jawab)
 
-| Penanggung Jawab                 | Penghubung Komisi Yudisial  |
-| -------------------------------- | --------------------------- |
-| **Tim 1**                        | Wilayah Sumatera Utara      |
-| PIC: Dani Dwiyantoro             | Wilayah Lampung             |
-| Anggota: Dini Hardianti          | Wilayah Jawa Timur          |
-| Anggota: Muhammad Nur Amin       | Wilayah Papua               |
-|                                  | Wilayah Sulawesi Utara      |
-| **Tim 2**                        | Wilayah Sumatera Selatan    |
-| PIC: Reza Putri Septiyani        | Wilayah Kalimantan Selatan  |
-| Anggota: Catur Putri Mileniawati | Wilayah Jawa Tengah         |
-| Anggota: Hariyo Mahendra         | Wilayah Sulawesi Selatan    |
-|                                  | Wilayah Nusa Tenggara Barat |
-| **Tim 3**                        | Wilayah Aceh                |
-| PIC: Mustika Rizky Agustya       | Wilayah Kalimantan Barat    |
-| Anggota: Licia Christine         | Wilayah Maluku              |
-| Anggota: Frendhis Aditya Permana | Wilayah Nusa Tenggara Timur |
-|                                  | Wilayah Bali                |
-| **Tim 4**                        | Wilayah Sumatera Barat      |
-| PIC: Rentauli Simanjuntak        | Wilayah Riau                |
-| Anggota: Gita Amalia Putri       | Wilayah Kalimantan Timur    |
-| Anggota: Hery Riyanto            | Wilayah Sulawesi Tenggara   |
-|                                  | Wilayah Papua Barat         |
+:::tip
+Silakan klik nama Penanggung Jawab di bawah ini untuk menghubungi via WhatsApp.
+:::
+
+| Penanggung Jawab                                                | Penghubung Komisi Yudisial  |
+| --------------------------------------------------------------- | --------------------------- |
+| **Tim 1**                                                       | Wilayah Sumatera Utara      |
+| PIC: [Dani Dwiyantoro](https://wa.me/6285200241888)             | Wilayah Lampung             |
+| Anggota: [Dini Hardianti](https://wa.me/6283872297095)          | Wilayah Jawa Timur          |
+| Anggota: [Muhammad Nur Amin](https://wa.me/6282157515356)       | Wilayah Papua               |
+|                                                                 | Wilayah Sulawesi Utara      |
+| **Tim 2**                                                       | Wilayah Sumatera Selatan    |
+| PIC: [Reza Putri Septiyani](https://wa.me/6281284147502)        | Wilayah Kalimantan Selatan  |
+| Anggota: [Catur Putri Mileniawati](https://wa.me/6282143664846) | Wilayah Jawa Tengah         |
+| Anggota: [Hariyo Mahendra](https://wa.me/6281239324020)         | Wilayah Sulawesi Selatan    |
+|                                                                 | Wilayah Nusa Tenggara Barat |
+| **Tim 3**                                                       | Wilayah Aceh                |
+| PIC: [Mustika Rizky Agustya](https://wa.me/6281904286335)       | Wilayah Kalimantan Barat    |
+| Anggota: [Licia Christine](https://wa.me/6282331331523)         | Wilayah Maluku              |
+| Anggota: [Frendhis Aditya Permana](https://wa.me/6281336890088) | Wilayah Nusa Tenggara Timur |
+|                                                                 | Wilayah Bali                |
+| **Tim 4**                                                       | Wilayah Sumatera Barat      |
+| PIC: [Rentauli Simanjuntak](https://wa.me/6285219657040)        | Wilayah Riau                |
+| Anggota: [Gita Amalia Putri](https://wa.me/6281513771524)       | Wilayah Kalimantan Timur    |
+| Anggota: [Hery Riyanto](https://wa.me/6285780301166)            | Wilayah Sulawesi Tenggara   |
+|                                                                 | Wilayah Papua Barat         |
 
 ## F.A.Q (Pertanyaan yang sering diajukan)
 

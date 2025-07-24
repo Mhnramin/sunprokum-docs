@@ -14,7 +14,7 @@ width="900"
 style={{ border: "1px solid #ddd" }}
 />
 
-1. Setelah login dan berada pada halaman metadata dokumen, klik tombol berwarna biru di pojok kanan atas sesuai tampilan di bawah ini.
+1. Setelah login dan berada pada halaman metadata dokumen, klik tombol **Tambah** di pojok kanan atas sesuai tampilan di bawah ini.
 
 ![Tambah](/img/tombol-tambah.png)
 
@@ -118,9 +118,10 @@ Berikut merupakan contoh pengisian dari Kabupaten Batang:
 
 ## Simpan Metadata
 
+1. Setelah selesai mengisi metadata, klik tombol **"Simpan"** di bagian bawah halaman.
+
 ![Tampilan Tombol Simpan](/img/tombol-simpan.png)
 
-1. Setelah selesai mengisi metadata, klik tombol **"Simpan"** di bagian bawah halaman.
 2. Sistem akan memvalidasi metadata yang Anda inputkan.
 3. Jika metadata valid, sistem akan menyimpan metadata produk hukum tersebut dan menjadikan status produk hukum menjadi _draft_ pada sistem Sunprokum.
 

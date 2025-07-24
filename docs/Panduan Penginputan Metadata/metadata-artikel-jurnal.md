@@ -14,7 +14,7 @@ width="900"
 style={{ border: "1px solid #ddd" }}
 />
 
-1. Setelah login dan berada pada halaman metadata dokumen, klik tombol berwarna biru di pojok kanan atas sesuai tampilan di bawah ini.
+1. Setelah login dan berada pada halaman metadata dokumen, klik tombol **Tambah** di pojok kanan atas sesuai tampilan di bawah ini.
 
 ![Tambah](/img/tombol-tambah.png)
 
@@ -40,7 +40,7 @@ Setiap artikel/jurnal hukum harus dilengkapi metadata untuk memudahkan klasifika
 
 ## Simpan Metadata
 
-1. Setelah selesai mengisi metadata, klik tombol **"Simpan"** di bagian bawah halaman.
+1. Setelah selesai mengisi metadata artikel/jurnal, klik tombol **"Simpan"** di bagian bawah halaman.
 
 ![Tampilan Tombol Simpan](/img/tombol-simpan.png)
 
