@@ -5,7 +5,7 @@ sidebar_position: 6
 ---
 
 :::note
-Pedoman ini berdasarkan pada **Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 8 Tahun 2019 tentang Standar Pengelolaan Dokumen dan Informasi Hukum**.
+Pedoman ini berdasarkan pada [**Peraturan Menteri Hukum dan Hak Asasi Manusia Nomor 8 Tahun 2019 tentang Standar Pengelolaan Dokumen dan Informasi Hukum**](https://jdih.komisiyudisial.go.id/produk-hukum-peraturan/peraturan-menteri-hukum-dan-ham-nomor-8-tahun-2019-tentang-standar-pengelolaan-dokumen-dan-informasi-hukum/577).
 :::
 
 ## Jenis dan Singkatan Peraturan
